@@ -1,4 +1,3 @@
-```markdown
 # VPN Detector (Android / Java) — README
 
 This project is a small Android app (Java) that detects whether a **VPN is active** on the device and shows **what evidence/technique** was used to detect it, along with useful network trace details (interface name, DNS servers, routes, etc.).
